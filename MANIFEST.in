@@ -1,0 +1,4 @@
+include README.md
+recursive-include octoprint_tcp/templates *
+recursive-include octoprint_tcp/translations *
+recursive-include octoprint_tcp/static *
